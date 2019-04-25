@@ -1,0 +1,29 @@
+Strings properties:
+    .length
+
+Strings methods:
+    .indexOf()
+    .lastIndexOf()
+    .slice()
+    .substring()
+    .substr()
+    .charAt()
+    .repeat()
+    .localeCompare()
+
+Number methods:
+    .parseInt()
+
+Math methods
+    .random()
+    .floor()
+
+Array properties
+    .length 
+
+Array methods
+    .push()
+    .pop()
+    .unshift()
+    .splice()
+    .split()
