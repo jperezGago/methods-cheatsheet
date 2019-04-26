@@ -27,3 +27,28 @@ Array methods
     .unshift()
     .splice()
     .split()
+
+
+
+DOM methods
+    .getElementById()
+    .getElementsByTagName()
+    .getElementsByClassName()
+    .querySelector()
+    .querySelectorAll()
+    .getAttribute()
+    .setAttribute()
+    .removeAttribute()
+    .createElement()
+    .appendChild()
+    .insertBefore()
+    .removeChild()
+    .createTextNode()
+
+
+
+DOM object properties
+    .innerHTML
+    .id 
+    .className 
+    .style
